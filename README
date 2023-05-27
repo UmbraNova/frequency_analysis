@@ -1,0 +1,3 @@
+In text.txt file is The Zen of Python the program performs a frequency analysis
+determining the proportion of each letter of the alphabet in the total number in the text,
+outputs the result to the analysis.txt file.
